@@ -6,6 +6,6 @@ access_books_department,access_books_department,model_books_department,base.grou
 access_books_publisher,access_books_publisher,model_books_publisher,base.group_user,1,1,1,1
 access_rack,access_rack,model_rack,base.group_user,1,1,1,1
 access_shelf,access_shelf,model_shelf,base.group_user,1,1,1,1
-access_book_issue,access_book_issue,model_book_isssue,base.group_user,1,1,1,1
+access_book_issue,access_book_issue,model_book_issue,base.group_user,1,1,1,1
 
 
